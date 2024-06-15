@@ -1,0 +1,23 @@
+input::placeholder {
+    color:aqua !important;
+   
+}
+
+.smallfont{
+font-size: 8px;
+}
+
+.backgroundimg{
+
+    background-image:   url(../img/banner.png) ;
+ 
+    overflow: auto;
+ 
+    width: 100%;
+
+    background-repeat: no-repeat;
+        /* background-attachment:fixed;
+        background-size: cover; */
+        /* background-position: center center; */
+    
+}
